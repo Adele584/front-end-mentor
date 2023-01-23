@@ -1,0 +1,147 @@
+/**********************************TAG SELECTORS****************************************/
+body {
+  font-family: sans-serif;
+}
+
+p {
+  color: #757688;
+}
+
+hr {
+  background-color: #2e2d3f;
+}
+
+img {
+  width: 80%;
+}
+/************************************CLASS SELECTORS************************************/
+.Bright {
+  font-weight: 700;
+  color: #04021b;
+  float: left;
+  margin-right: 70px;
+}
+
+.bright-class {
+  margin-bottom: 75px;
+  margin-top: 30px;
+  margin-left: 7%;
+}
+
+.button {
+  background-color: #f15d51;
+  border: 0px solid;
+  padding: 7px 19px;
+  letter-spacing: 3px;
+  font-size: 13px;
+  font-weight: 500;
+  color: white;
+  margin-top: 13px;
+}
+
+.button:hover {
+  background-color: #010018;
+  text-decoration: none;
+  color: white;
+}
+
+.bottom-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.first-img {
+  padding-top: 30px;
+  width: 75%;
+  margin-left: 7%;
+}
+
+.features {
+  color: #2e2d3f;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.features:hover {
+  text-decoration: none;
+  color: #f09d90;
+}
+
+.new {
+  color: #a27543;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.products {
+  background-color: #00001a;
+  width: 23%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: right;
+  line-height: 25px;
+  margin: 30px 105px 0 0;
+}
+
+.products-item {
+  margin-left: 20px;
+  margin-right: 15px;
+  padding-top: 5px;
+  font-size: 14px;
+}
+
+.container-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  line-height: 50px;
+  font-size: 16px;
+}
+
+.container-link:hover {
+  color: #a27543;
+  text-decoration: none;
+}
+
+.container-top {
+  padding-bottom: 25px;
+  padding-top: 40px;
+  margin-left: 7%;
+}
+
+.grid-container {
+  display: grid;
+  padding-bottom: 5%;
+  font-size: 14px;
+  width: 95%;
+  padding-left: 7%;
+}
+
+.menu {
+  padding-bottom: 20px;
+}
+
+.menu-close {
+  margin-left: 90%;
+}
+
+.top-link {
+  display: inline;
+  color: #adacb2;
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+.top-link:hover {
+  color: #f09d90;
+  text-decoration: none;
+}
+
+.num-1, .num-2, .num-3 {
+  color: #adacb2;
+}
+
+.svg {
+  margin-right: 655px;
+}
